@@ -1,5 +1,11 @@
-<div style="display: flex; flex-direction: column; gap: 1rem;">
-	<img style="box-sizing: border-box;width: 100%;border-radius: 22px !important;" src="https://github-readme-stats.vercel.app/api?username=KingOfTac&count_private=true&layout=compact&theme=react&hide_border=true" />
-	<img style="box-sizing: border-box;width: 100%;border-radius: 22px !important;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfTac&count_private=true&layout=compact&theme=react&hide_border=true" />
-	<img style="box-sizing: border-box;width: 100%;border-radius: 22px !important;" src="https://activity-graph.herokuapp.com/graph?username=kingoftac&hide_border=true&theme=react-dark&bg_color=20232a" />
-</div>
+## About Me
+Hello there! I'm a Software Engineer at Afterman Software working as a consultant for a variety of clients in 
+the financial and healthcare sectors.
+
+I am passionate about web standards, accessibility, and building performant applications that provide great user experiences.
+
+Outside of my work I enjoy hiking, skiing, and spending time with my kids.
+
+## Contact
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/nathan-brown-dev/)
+- Or reach out via Email [me@nathanbrown.dev](mailto:me@nathanbrown.dev)
